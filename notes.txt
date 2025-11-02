@@ -1,0 +1,3 @@
+Git is a distributed version control system that tracks changes in code, allowing multiple people to collaborate on projects efficiently.
+It helps manage versions of files, so you can revert, branch, or merge work easily.
+Developers use commands like `git add`, `commit`, `push`, and `pull` to update and share code with remote repositories like GitHub.
