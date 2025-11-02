@@ -3,8 +3,13 @@ It helps manage versions of files, so you can revert, branch, or merge work easi
 Developers use commands like `git add`, `commit`, `push`, and `pull` to update and share code with remote repositories like GitHub.
 
 Summary:
+<<<<<<< HEAD
 - This is the summary from main branch
 - It will conflict with the feature branch summary
 
 Insights:
 - Remember to practice rebase
+=======
+- This repo is for lab practice
+- We are testing branching and merging
+>>>>>>> eaa3612 (Add Summary section to notes)
